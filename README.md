@@ -1,61 +1,78 @@
-<h1 align="center">Hey there! 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sai+Vishnu;AI+%2F+ML+Engineer;RAG+System+Architect;NLP+Researcher" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3>📍 Houston, TX | 🎓 MS CS @ University of Houston</h3>
+</div>
 
 <p align="center">
-  I'm <strong>Sai Vishnu Vamsi Senagasetty</strong>, a Software Engineer & AI/ML Specialist.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="sai_vishnu_views" />
-</p>
-
----
-
-- [cite_start]🔭 I’m seeking full-time roles in applied machine learning or AI product development[cite: 6].
-- [cite_start]🎓 Currently pursuing a Master of Science in Computer Science at the University of Houston[cite: 8, 9].
-- [cite_start]🤖 Built a RAG Chatbot with 98% accuracy using LangChain and Together.ai[cite: 14, 17].
-- [cite_start]⚡ Achieved 11.6% lower latency deploying models with TorchServe vs TensorFlow Serving.
-- [cite_start]✍️ Publication: [Nighttime Object Detection: A Night-Patrolling Mechanism](LINK_TO_PAPER)[cite: 53].
-
-<p align="left">
   <a href="mailto:saivishnuvamsis07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="LINK_TO_YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="LINK_TO_YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="INSERT_YOUR_PORTFOLIO_URL_HERE">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=io&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### Languages & Tools
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>I am a Software Engineer with <strong>5 years of experience</strong> building AI/ML systems. I specialize in optimizing model latency and building Retrieval-Augmented Generation (RAG) chatbots.</p>
+      <br />
+      <ul>
+        <li>🔭 <strong>Current Work:</strong> Building end-to-end RAG pipelines using LangChain & Together.ai.</li>
+        <li>🧬 <strong>Research:</strong> NLP detection of "pink slime" journalism & Nighttime Object Detection.</li>
+        <li>⚡ <strong>Performance:</strong> Reduced model latency by 11.6% using TorchServe vs TF Serving.</li>
+        <li>📫 <strong>Contact:</strong> <a href="mailto:saivishnuvamsis07@gmail.com">saivishnuvamsis07@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=VishnuVamsi7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuVamsi7&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,cpp,js,html,css,flutter,bash,tensorflow,pytorch,sklearn,docker,kubernetes,azure,linux,git,mysql" />
-  </a>
-</p>
+---
 
-<details>
-<summary>🔻 Click to view my Publications</summary>
-<br>
-<ul>
-    <li>Nighttime Object Detection: A Night-Patrolling Mechanism Using Deep Learning [cite: 53]</li>
-    <li>State of Health of Lithium-ion Batteries by Data-driven Technique with Optimized Gaussian Process Regression [cite: 54]</li>
-</ul>
-</details>
+### 🛠️ Tech Stack & Arsenal
 
-<br>
+<div align="center">
+  
+  **Languages**
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,javascript,html,css,flutter,bash&theme=dark" />
+  
+  <br><br>
+  
+  **AI / ML & Data**
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,mysql&theme=dark" />
+  
+  <br><br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" height="150" alt="streak graph" />
+  **Cloud & DevOps**
+  <br>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,linux,postman&theme=dark" />
+
 </div>
 
 ---
 
-<p align="center">
-  Show ❤️ by starring my repositories!
-</p>
+### 🏆 Achievements & Publications
+
+| Type | Title | Detail |
+| :--- | :--- | :--- |
+| 🤖 **Project** | **RAG Portfolio Assistant** | Achieved 98% accuracy & <1s response time using vector similarity search. |
+| ⚡ **Project** | **Model Benchmarking** | Built a multi-threaded load simulator (50 req/sec) to compare TorchServe vs TensorFlow. |
+| ✍️ **Paper** | **Nighttime Object Detection** | A Night-Patrolling Mechanism Using Deep Learning. |
+|
